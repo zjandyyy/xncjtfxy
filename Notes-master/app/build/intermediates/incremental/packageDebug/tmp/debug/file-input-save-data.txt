@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jan 23 11:14:09 CST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\NOTE\\src\\Notes-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\37
+0.path=classes.dex
+0.set=DEX
+count=1
